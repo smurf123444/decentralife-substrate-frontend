@@ -19,7 +19,7 @@ The codebase is installed using [git](https://git-scm.com/) and [yarn](https://y
 
 ```bash
 # Clone the repository
-git clone https://github.com/substrate-developer-hub/substrate-front-end-template.git
+git clone https://github.com/smurf123444/decentralife-substrate-frontend.git
 cd ./substrate-front-end-template
 yarn install
 ```
